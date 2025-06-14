@@ -1,12 +1,7 @@
-# Công Cụ Ghép Video và Audio
-
-## Giới thiệu
-
-Đây là một ứng dụng desktop được phát triển bằng Python và Tkinter, cho phép người dùng ghép các file video/ảnh với các file audio để tạo ra một video hoàn chỉnh. Ứng dụng hỗ trợ nhiều định dạng video, ảnh và audio phổ biến, đồng thời cung cấp các tùy chọn chất lượng đầu ra linh hoạt.
 
 ## Tính năng chính
 
-- **Ghép video và audio**: Kết hợp nhiều file video/ảnh với nhiều file audio thành một video hoàn chỉnh
+- ****: Kết hợp nhiều file video/ảnh với nhiều file audio thành một video hoàn chỉnh
 - **Hỗ trợ nhiều định dạng**:
   - Video: MP4, MOV, MKV, AVI, FLV, WMV
   - Ảnh: JPG, JPEG, PNG, BMP, GIF
